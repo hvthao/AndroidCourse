@@ -11,3 +11,13 @@ Fragments:
   - API Key (hvthao@gmail.com): 970080d3f0fe2bb4ccc3faafc9ff15e7
   - API: https://openweathermap.org/api
   
+Connect to the Cloud:
+ - HTTP Request for Weather Data: (2.1.Network) PlaceHolderFragment
+    + Make HTTP Request
+    + Read response from input stream
+    + Log any errors
+ - Logging on Android:
+    + Error
+    + Debug
+    + Verbose, ...
+ 
