@@ -6,3 +6,8 @@ Bài tập:
 Fragments:
  - https://developer.android.com/guide/components/fragments.html
  
+ Open Weather Map:
+  - https://openweathermap.org/
+  - API Key (hvthao@gmail.com): 970080d3f0fe2bb4ccc3faafc9ff15e7
+  - API: https://openweathermap.org/api
+  
