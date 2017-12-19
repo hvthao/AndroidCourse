@@ -37,7 +37,8 @@
                 // Construct the URL for the OpenWeatherMap query
                 // Possible parameters are avaiable at OWM's forecast API page, at
                 // http://openweathermap.org/API#forecast
-                String baseUrl = "http://api.openweathermap.org/data/2.5/forecast/daily?zip=94043&mode=json&cnt=7&units=metric&appid=970080d3f0fe2bb4ccc3faafc9ff15e7";
+                String baseUrl = "http://api.openweathermap.org/data/2.5/forecast/daily?zip=94043&mode=json&cnt=7
+                    &units=metric&appid=970080d3f0fe2bb4ccc3faafc9ff15e7";
 
                 URL url = new URL(baseUrl);
 
