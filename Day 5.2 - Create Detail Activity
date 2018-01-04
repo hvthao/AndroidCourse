@@ -1,0 +1,2 @@
+- Create DetailActivity using fragment (DetailFragment) and declare it in the AndroidManifest file.
+  + Layout: activity_detail.xml, fragment_detail.xml
