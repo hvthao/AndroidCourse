@@ -20,7 +20,7 @@
             }
         });
 
-- DetailFragment:
+- DetailFragment: Read the forecast data from Intent and display it in DetailActivity.
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
