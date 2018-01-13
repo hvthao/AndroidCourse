@@ -20,4 +20,8 @@ Connect to the Cloud:
     + Error
     + Debug
     + Verbose, ...
+    
+ Content Providers
+ 
+ Rich and Responsive Layout
  
